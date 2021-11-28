@@ -1,4 +1,4 @@
-# Zendesk-Internship-Challenge
+# Zendesk-Coding-Challenge
 
 ## Framework used
 
